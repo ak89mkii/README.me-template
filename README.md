@@ -1,12 +1,12 @@
-# TITLE_HERE
+# README.md Template
 ## Description:
-(STACK) | DESCRIPTION_OF_PROJECT.
+<!-- (STACK) | DESCRIPTION_OF_PROJECT. -->
 
 ## Deployment Link:
-URL_GOES_HERE
+<!-- URL_GOES_HERE -->
 
 ## Screenshots:
-![Screenshot](LOCATION_OF_FILE)
+<!-- ![Screenshot](LOCATION_OF_FILE) -->
 
 ## Technologies Used:
 #### Front-End:
