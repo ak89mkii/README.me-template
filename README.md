@@ -13,7 +13,7 @@
 - 
 #### Back-End:
 - 
-#### Packages:
+#### Packages and Installs:
 - 
 #### Version Control:
 - Git
@@ -41,7 +41,4 @@
 //
 
 #### Fonts / Credits:
-// 
-
-## Helpful Resources:
 // 
